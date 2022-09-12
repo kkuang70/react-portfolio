@@ -35,6 +35,9 @@ const About = () => {
                     <p>
                         I like to stay busy working, learning new technologies, going to gym, and hanging out with friends.
                     </p>
+                    <p>
+                        I'm passionate about music, woodworking, farming, coding, video games, basketball.
+                    </p>
                 </div>
 
                 <div className='stage-cube-cont'>
